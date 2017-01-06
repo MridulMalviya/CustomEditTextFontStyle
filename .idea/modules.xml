@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomEditTextFontStyle.iml" filepath="$PROJECT_DIR$/CustomEditTextFontStyle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoedittext/demoedittext.iml" filepath="$PROJECT_DIR$/demoedittext/demoedittext.iml" />
+    </modules>
+  </component>
+</project>
